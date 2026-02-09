@@ -1,6 +1,6 @@
 Hello There, I'm Divya Sri
-- Software, AI, ML and systems-focused engineer building scalable pipelines and production-ready models. 
-- Experience with ML workflows, evaluation and distributed backends.   
-- Interested in time-series forecasting, graph models and LLMs.   
-- Open to research and engineering collaborations.   
-- Mail: divyavadpalli@gmail.com
+- Software engineering enthusiast focused on building reliable, scalable systems
+- Hands-on with AI/ML pipelines, model integration, and backend workflows
+- Strong foundation in DSA, DBMS, OS, and system-level problem solving
+- Interested in turning ML ideas into production-ready software
+- Mail: Vadapallidivyasrii@gmail.com
