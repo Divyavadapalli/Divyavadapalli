@@ -1,9 +1,6 @@
 Hello There, I'm Divya Sri
 
-- Software engineering enthusiast focused on building reliable, scalable systems
-- Hands-on with AI/ML pipelines, model integration, and backend workflows
-- Strong foundation in DSA, DBMS, OS, and system-level problem solving
-- Interested in turning ML ideas into production-ready software
+AI/ML-focused Electronics and Communication undergraduate with hands-on experience building real-world systems across computer vision, NLP, and predictive modeling. Strong in developing end-to-end solutions—from training transformer models to deploying intelligent, data-driven applications with measurable performance impact.
   
 Website: https://divya-sri-vadapalli-resume.netlify.app/  
 Mail: Vadapallidivyasrii@gmail.com
