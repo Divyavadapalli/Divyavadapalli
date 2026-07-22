@@ -1,6 +1,6 @@
 Hello There, I'm Divya Sri
 
-AI/ML-focused Electronics and Communication undergraduate with hands-on experience building real-world systems across computer vision, NLP, and predictive modeling. Strong in developing end-to-end solutions—from training transformer models to deploying intelligent, data-driven applications with measurable performance impact.
-  
+Software Engineering intern with experience building backend applications using Java, Spring Boot and PostgreSQL. Built production-ready REST APIs, optimised backend performance and developed rule-based compliance systems for financial workflows. Strong foundation in data structures, algorithms and scalable software development.
+
 Website: https://divya-sri-vadapalli-resume.netlify.app/  
 Mail: Vadapallidivyasrii@gmail.com
